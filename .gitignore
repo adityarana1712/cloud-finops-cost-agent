@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+cloud_resource_metrics.csv
+finops_optimization_report.txt
